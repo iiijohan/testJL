@@ -3,6 +3,6 @@ Test repo for JL
 
 Very funny this is
 
-This is a nice test
+This is a bad test
 
 Some more necessary fun added
